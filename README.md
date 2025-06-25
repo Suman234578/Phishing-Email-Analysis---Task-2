@@ -4,7 +4,6 @@
 
 This repository presents the analysis of a simulated phishing email, a component of a cybersecurity internship project. The primary objective is to identify prevalent phishing tactics, including email spoofing, suspicious hyperlinks, and social engineering.
 
-—
 
 ## Contents
 
@@ -12,7 +11,6 @@ This repository presents the analysis of a simulated phishing email, a component
 - `screenshots/`: Folder containing visual references (to be added if actual screenshots are utilized).
 - `README.md`: This document.
 
-—
 
 ## Key Concepts Covered
 
@@ -21,7 +19,6 @@ This repository presents the analysis of a simulated phishing email, a component
 - Social engineering recognition
 - Threat identification and reporting
 
-—
 
 ## Tools Employed
 
@@ -29,7 +26,6 @@ This repository presents the analysis of a simulated phishing email, a component
 - Text editor and PDF generation tool
 - Simulated email sample for testing
 
-—
 
 ## Summary
 
