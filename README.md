@@ -1,4 +1,4 @@
-## Phishing Email Analysis - Task 2
+## Task 2 -  Phishing Email Analysis
 
 **Submitted by:** Suman Paul
 
