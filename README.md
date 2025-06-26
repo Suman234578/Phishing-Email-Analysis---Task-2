@@ -5,13 +5,6 @@
 This repository presents the analysis of a simulated phishing email, a component of a cybersecurity internship project. The primary objective is to identify prevalent phishing tactics, including email spoofing, suspicious hyperlinks, and social engineering.
 
 
-## Contents
-
-- `Phishing_Analysis_Report_SumanPaul.pdf`: Comprehensive analysis report detailing all identified phishing indicators.
-- `screenshots/`: Folder containing visual references (to be added if actual screenshots are utilized).
-- `README.md`: This document.
-
-
 ## Key Concepts Covered
 
 - Phishing and spoofing detection
